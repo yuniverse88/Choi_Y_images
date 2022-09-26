@@ -1,4 +1,4 @@
-![banner](cosmos.jpg)
+![alt text](cosmos.jpg)
 
 # My Awsome team
 
